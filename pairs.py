@@ -152,8 +152,8 @@ if __name__ == "__main__":
     # does not support user-defined data types
     # algo field must be defined as user_defined in order to modify them
 
-    username = "hj364@cornell.edu"
-    password = "Triniti2017"
+    username = "abc@def.com"
+    password = "Hello2017"
 
     algo_client = Algo_Client(username, password)
 
